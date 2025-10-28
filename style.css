@@ -1,0 +1,51 @@
+body {
+    font-family: Arial;
+    margin: 0;
+    padding: 0;
+    background: #f4f4f4;
+    color: #333;
+}
+header {
+    background: linear-gradient(to right, #0b74de, lightgreen);
+    color: white;
+    text-align: center;
+    padding: 40px 0;
+}
+section {
+    padding: 20px;
+    background: white;
+    margin: 20px;
+    border-radius: 10px;
+}
+footer {
+    text-align: center;
+    padding: 10px;
+    background: #222;
+    color: white;
+}
+#projects {
+    background: #fff;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+}
+.project {
+    background: #f9f9f9;
+    margin: 15px 0;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+.project img {
+    width: 100%;
+    max-width: 400px;
+    height: 150;
+    display: block;
+    margin: 0 auto 10px;
+    border-radius: 10px;
+    object-fit: cover;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
+
+
+
